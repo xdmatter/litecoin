@@ -1,6 +1,6 @@
 TEMPLATE = app
 TARGET = xdmatter-qt
-macx:TARGET = "Xdmatter-Qt"
+macx:TARGET = "XDMatter-Qt"
 VERSION = 0.8.7.5
 INCLUDEPATH += src src/json src/qt
 QT += core gui network

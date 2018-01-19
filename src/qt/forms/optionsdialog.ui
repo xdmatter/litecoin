@@ -33,10 +33,10 @@
        <item>
         <widget class="QCheckBox" name="bitcoinAtStartup">
          <property name="toolTip">
-          <string>Automatically start Xdmatter after logging in to the system.</string>
+          <string>Automatically start XDMatter after logging in to the system.</string>
          </property>
          <property name="text">
-          <string>&amp;Start Xdmatter on system login</string>
+          <string>&amp;Start XDMatter on system login</string>
          </property>
         </widget>
        </item>
@@ -176,7 +176,7 @@
        <item>
         <widget class="QCheckBox" name="mapPortUpnp">
          <property name="toolTip">
-          <string>Automatically open the Xdmatter client port on the router. This only works when your router supports UPnP and it is enabled.</string>
+          <string>Automatically open the XDMatter client port on the router. This only works when your router supports UPnP and it is enabled.</string>
          </property>
          <property name="text">
           <string>Map port using &amp;UPnP</string>
@@ -186,7 +186,7 @@
        <item>
         <widget class="QCheckBox" name="connectSocks">
          <property name="toolTip">
-          <string>Connect to the Xdmatter network through a SOCKS proxy (e.g. when connecting through Tor).</string>
+          <string>Connect to the XDMatter network through a SOCKS proxy (e.g. when connecting through Tor).</string>
          </property>
          <property name="text">
           <string>&amp;Connect through SOCKS proxy:</string>
@@ -360,7 +360,7 @@
          <item>
           <widget class="QValueComboBox" name="lang">
            <property name="toolTip">
-            <string>The user interface language can be set here. This setting will take effect after restarting Xdmatter.</string>
+            <string>The user interface language can be set here. This setting will take effect after restarting XDMatter.</string>
            </property>
           </widget>
          </item>
@@ -393,7 +393,7 @@
        <item>
         <widget class="QCheckBox" name="displayAddresses">
          <property name="toolTip">
-          <string>Whether to show Xdmatter addresses in the transaction list or not.</string>
+          <string>Whether to show XDMatter addresses in the transaction list or not.</string>
          </property>
          <property name="text">
           <string>&amp;Display addresses in transaction list</string>

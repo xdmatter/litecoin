@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Xdmatter</source>
-        <translation>A Xdmatterról</translation>
+        <source>About XDMatter</source>
+        <translation>A XDMatterról</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Xdmatter&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Xdmatter&lt;/b&gt; verzió</translation>
+        <source>&lt;b&gt;XDMatter&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;XDMatter&lt;/b&gt; verzió</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -33,7 +33,7 @@ Ez a termék az OpenSSL Project által lett kifejlesztve az OpenSSL Toolkit (htt
     </message>
     <message>
         <location line="+0"/>
-        <source>The Xdmatter developers</source>
+        <source>The XDMatter developers</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -66,8 +66,8 @@ Ez a termék az OpenSSL Project által lett kifejlesztve az OpenSSL Toolkit (htt
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Xdmatter addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Ezekkel a Xdmatter-címekkel fogadhatod kifizetéseket. Érdemes lehet minden egyes kifizető számára külön címet létrehozni, hogy könnyebben nyomon követhesd, kitől kaptál már pénzt.</translation>
+        <source>These are your XDMatter addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Ezekkel a XDMatter-címekkel fogadhatod kifizetéseket. Érdemes lehet minden egyes kifizető számára külön címet létrehozni, hogy könnyebben nyomon követhesd, kitől kaptál már pénzt.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -81,7 +81,7 @@ Ez a termék az OpenSSL Project által lett kifejlesztve az OpenSSL Toolkit (htt
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Xdmatter address</source>
+        <source>Sign a message to prove you own a XDMatter address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -106,8 +106,8 @@ Ez a termék az OpenSSL Project által lett kifejlesztve az OpenSSL Toolkit (htt
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Xdmatter address</source>
-        <translation>Üzenet ellenőrzése, hogy valóban a megjelölt Xdmatter címekkel van-e aláírva.</translation>
+        <source>Verify a message to ensure it was signed with a specified XDMatter address</source>
+        <translation>Üzenet ellenőrzése, hogy valóban a megjelölt XDMatter címekkel van-e aláírva.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -121,7 +121,7 @@ Ez a termék az OpenSSL Project által lett kifejlesztve az OpenSSL Toolkit (htt
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Xdmatter addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your XDMatter addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -274,8 +274,8 @@ Ez a termék az OpenSSL Project által lett kifejlesztve az OpenSSL Toolkit (htt
     </message>
     <message>
         <location line="-56"/>
-        <source>Xdmatter will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your xdmatters from being stolen by malware infecting your computer.</source>
-        <translation>Xdmatter will close now to finish the encryption process. Ne feledd, hogy a tárca titkosítása sem nyújt teljes védelmet az adathalász programok fertőzésével szemben.</translation>
+        <source>XDMatter will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your xdmatters from being stolen by malware infecting your computer.</source>
+        <translation>XDMatter will close now to finish the encryption process. Ne feledd, hogy a tárca titkosítása sem nyújt teljes védelmet az adathalász programok fertőzésével szemben.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -373,8 +373,8 @@ Ez a termék az OpenSSL Project által lett kifejlesztve az OpenSSL Toolkit (htt
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Xdmatter</source>
-        <translation>Információk a Xdmatterról</translation>
+        <source>Show information about XDMatter</source>
+        <translation>Információk a XDMatterról</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -418,13 +418,13 @@ Ez a termék az OpenSSL Project által lett kifejlesztve az OpenSSL Toolkit (htt
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Xdmatter address</source>
+        <source>Send coins to a XDMatter address</source>
         <translation>Érmék küldése megadott címre</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Xdmatter</source>
-        <translation>Xdmatter konfigurációs opciók</translation>
+        <source>Modify configuration options for XDMatter</source>
+        <translation>XDMatter konfigurációs opciók</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -454,8 +454,8 @@ Ez a termék az OpenSSL Project által lett kifejlesztve az OpenSSL Toolkit (htt
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Xdmatter</source>
-        <translation>Xdmatter</translation>
+        <source>XDMatter</source>
+        <translation>XDMatter</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -479,8 +479,8 @@ Ez a termék az OpenSSL Project által lett kifejlesztve az OpenSSL Toolkit (htt
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Xdmatter</source>
-        <translation>&amp;A Xdmatterról</translation>
+        <source>&amp;About XDMatter</source>
+        <translation>&amp;A XDMatterról</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -499,13 +499,13 @@ Ez a termék az OpenSSL Project által lett kifejlesztve az OpenSSL Toolkit (htt
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Xdmatter addresses to prove you own them</source>
-        <translation>Üzenet aláírása a Xdmatter címmel, amivel bizonyítja, hogy a cím az ön tulajdona.</translation>
+        <source>Sign messages with your XDMatter addresses to prove you own them</source>
+        <translation>Üzenet aláírása a XDMatter címmel, amivel bizonyítja, hogy a cím az ön tulajdona.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Xdmatter addresses</source>
-        <translation>Annak ellenőrzése, hogy az üzenetek valóban a megjelölt Xdmatter címekkel vannak-e alaírva</translation>
+        <source>Verify messages to ensure they were signed with specified XDMatter addresses</source>
+        <translation>Annak ellenőrzése, hogy az üzenetek valóban a megjelölt XDMatter címekkel vannak-e alaírva</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -535,13 +535,13 @@ Ez a termék az OpenSSL Project által lett kifejlesztve az OpenSSL Toolkit (htt
     </message>
     <message>
         <location line="+47"/>
-        <source>Xdmatter client</source>
-        <translation>Xdmatter kliens</translation>
+        <source>XDMatter client</source>
+        <translation>XDMatter kliens</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Xdmatter network</source>
-        <translation><numerusform>%n aktív kapcsolat a Xdmatter-hálózattal</numerusform><numerusform>%n aktív kapcsolat a Xdmatter-hálózattal</numerusform></translation>
+        <source>%n active connection(s) to XDMatter network</source>
+        <translation><numerusform>%n aktív kapcsolat a XDMatter-hálózattal</numerusform><numerusform>%n aktív kapcsolat a XDMatter-hálózattal</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -655,7 +655,7 @@ Cím: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Xdmatter address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid XDMatter address or malformed URI parameters.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -670,7 +670,7 @@ Cím: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Xdmatter can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. XDMatter can no longer continue safely and will quit.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -736,8 +736,8 @@ Cím: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Xdmatter address.</source>
-        <translation>A megadott &quot;%1&quot; cím nem egy érvényes Xdmatter-cím.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid XDMatter address.</source>
+        <translation>A megadott &quot;%1&quot; cím nem egy érvényes XDMatter-cím.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -755,7 +755,7 @@ Cím: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Xdmatter-Qt</source>
+        <source>XDMatter-Qt</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -819,12 +819,12 @@ Cím: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Xdmatter after logging in to the system.</source>
-        <translation>Induljon el a Xdmatter a számítógép bekapcsolásakor</translation>
+        <source>Automatically start XDMatter after logging in to the system.</source>
+        <translation>Induljon el a XDMatter a számítógép bekapcsolásakor</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Xdmatter on system login</source>
+        <source>&amp;Start XDMatter on system login</source>
         <translation>&amp;Induljon el a számítógép bekapcsolásakor</translation>
     </message>
     <message>
@@ -844,8 +844,8 @@ Cím: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Xdmatter client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>A Xdmatter-kliens portjának automatikus megnyitása a routeren. Ez csak akkor működik, ha a routered támogatja az UPnP-t és az engedélyezve is van rajta.</translation>
+        <source>Automatically open the XDMatter client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>A XDMatter-kliens portjának automatikus megnyitása a routeren. Ez csak akkor működik, ha a routered támogatja az UPnP-t és az engedélyezve is van rajta.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -854,8 +854,8 @@ Cím: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Xdmatter network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>SOCKS proxyn keresztüli csatlakozás a Xdmatter hálózatához (pl. Tor-on keresztüli csatlakozás esetén)</translation>
+        <source>Connect to the XDMatter network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>SOCKS proxyn keresztüli csatlakozás a XDMatter hálózatához (pl. Tor-on keresztüli csatlakozás esetén)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -929,7 +929,7 @@ Cím: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Xdmatter.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting XDMatter.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -944,7 +944,7 @@ Cím: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Xdmatter addresses in the transaction list or not.</source>
+        <source>Whether to show XDMatter addresses in the transaction list or not.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -996,8 +996,8 @@ Cím: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Xdmatter.</source>
-        <translation>Ez a beállítás a Xdmatter ujraindítása után lép érvénybe.</translation>
+        <source>This setting will take effect after restarting XDMatter.</source>
+        <translation>Ez a beállítás a XDMatter ujraindítása után lép érvénybe.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1015,8 +1015,8 @@ Cím: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Xdmatter network after a connection is established, but this process has not completed yet.</source>
-        <translation>A kijelzett információ lehet, hogy elavult. A pénztárcája automatikusan szinkronizálja magát a Xdmatter hálózattal miután a kapcsolat létrejön, de ez e folyamat még nem fejeződött be.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the XDMatter network after a connection is established, but this process has not completed yet.</source>
+        <translation>A kijelzett információ lehet, hogy elavult. A pénztárcája automatikusan szinkronizálja magát a XDMatter hálózattal miután a kapcsolat létrejön, de ez e folyamat még nem fejeződött be.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1219,7 +1219,7 @@ Cím: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Xdmatter-Qt help message to get a list with possible Xdmatter command-line options.</source>
+        <source>Show the XDMatter-Qt help message to get a list with possible XDMatter command-line options.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1239,12 +1239,12 @@ Cím: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Xdmatter - Debug window</source>
+        <source>XDMatter - Debug window</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+25"/>
-        <source>Xdmatter Core</source>
+        <source>XDMatter Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1254,7 +1254,7 @@ Cím: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Xdmatter debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the XDMatter debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1264,7 +1264,7 @@ Cím: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Xdmatter RPC console.</source>
+        <source>Welcome to the XDMatter RPC console.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1449,8 +1449,8 @@ Cím: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Xdmatter address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Adj meg egy Xdmatter-címet (pl.: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2 )</translation>
+        <source>Enter a XDMatter address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Adj meg egy XDMatter-címet (pl.: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2 )</translation>
     </message>
 </context>
 <context>
@@ -1473,7 +1473,7 @@ Cím: %4
     <message>
         <location line="+18"/>
         <source>The address to sign the message with (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Adj meg egy Xdmatter-címet (pl.: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2 )</translation>
+        <translation>Adj meg egy XDMatter-címet (pl.: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2 )</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1514,7 +1514,7 @@ Cím: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Xdmatter address</source>
+        <source>Sign the message to prove you own this XDMatter address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1546,11 +1546,11 @@ Cím: %4
     <message>
         <location line="+21"/>
         <source>The address the message was signed with (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Adj meg egy Xdmatter-címet (pl.: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2 )</translation>
+        <translation>Adj meg egy XDMatter-címet (pl.: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2 )</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Xdmatter address</source>
+        <source>Verify the message to ensure it was signed with the specified XDMatter address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1566,8 +1566,8 @@ Cím: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Xdmatter address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Adj meg egy Xdmatter-címet (pl.: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2 )</translation>
+        <source>Enter a XDMatter address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Adj meg egy XDMatter-címet (pl.: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2 )</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1576,8 +1576,8 @@ Cím: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Xdmatter signature</source>
-        <translation>Adja meg a Xdmatter aláírást</translation>
+        <source>Enter XDMatter signature</source>
+        <translation>Adja meg a XDMatter aláírást</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1650,7 +1650,7 @@ Cím: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Xdmatter developers</source>
+        <source>The XDMatter developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2188,8 +2188,8 @@ Cím: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Xdmatter version</source>
-        <translation>Xdmatter verzió</translation>
+        <source>XDMatter version</source>
+        <translation>XDMatter verzió</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2317,7 +2317,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Xdmatter Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;XDMatter Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2333,7 +2333,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Xdmatter Alert&quot; admin@foo
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Xdmatter is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. XDMatter is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2378,8 +2378,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Xdmatter Alert&quot; admin@foo
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Xdmatter will not work properly.</source>
-        <translation>Figyelem: Ellenőrizd, hogy helyesen van-e beállítva a gépeden a dátum és az idő.  A Xdmatter nem fog megfelelően működni, ha rosszul van beállítvaaz órád.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong XDMatter will not work properly.</source>
+        <translation>Figyelem: Ellenőrizd, hogy helyesen van-e beállítva a gépeden a dátum és az idő.  A XDMatter nem fog megfelelően működni, ha rosszul van beállítvaaz órád.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2628,8 +2628,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Xdmatter Alert&quot; admin@foo
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Xdmatter Wiki for SSL setup instructions)</source>
-        <translation>SSL-opciók: (lásd a Xdmatter Wiki SSL-beállítási instrukcióit)</translation>
+        <source>SSL options: (see the XDMatter Wiki for SSL setup instructions)</source>
+        <translation>SSL-opciók: (lásd a XDMatter Wiki SSL-beállítási instrukcióit)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2829,13 +2829,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Xdmatter Alert&quot; admin@foo
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Xdmatter</source>
-        <translation>Hiba a wallet.dat betöltése közben: ehhez a tárcához újabb verziójú Xdmatter-kliens szükséges</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of XDMatter</source>
+        <translation>Hiba a wallet.dat betöltése közben: ehhez a tárcához újabb verziójú XDMatter-kliens szükséges</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Xdmatter to complete</source>
-        <translation>A Tárca újraírása szükséges: Indítsa újra a teljesen a Xdmatter-t</translation>
+        <source>Wallet needed to be rewritten: restart XDMatter to complete</source>
+        <translation>A Tárca újraírása szükséges: Indítsa újra a teljesen a XDMatter-t</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2894,8 +2894,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Xdmatter Alert&quot; admin@foo
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Xdmatter is probably already running.</source>
-        <translation>A %s nem elérhető ezen a gépen. A Xdmatter valószínűleg fut már.</translation>
+        <source>Unable to bind to %s on this computer. XDMatter is probably already running.</source>
+        <translation>A %s nem elérhető ezen a gépen. A XDMatter valószínűleg fut már.</translation>
     </message>
     <message>
         <location line="+64"/>

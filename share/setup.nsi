@@ -1,4 +1,4 @@
-Name Xdmatter
+Name XDMatter
 
 RequestExecutionLevel highest
 SetCompressor /SOLID lzma
@@ -6,7 +6,7 @@ SetCompressor /SOLID lzma
 # General Symbol Definitions
 !define REGKEY "SOFTWARE\$(^Name)"
 !define VERSION 0.8.7.5
-!define COMPANY "Xdmatter project"
+!define COMPANY "XDMatter project"
 !define URL http://www.xdmatter.org/
 
 # MUI Symbol Definitions
@@ -19,7 +19,7 @@ SetCompressor /SOLID lzma
 !define MUI_STARTMENUPAGE_REGISTRY_ROOT HKLM
 !define MUI_STARTMENUPAGE_REGISTRY_KEY ${REGKEY}
 !define MUI_STARTMENUPAGE_REGISTRY_VALUENAME StartMenuGroup
-!define MUI_STARTMENUPAGE_DEFAULTFOLDER Xdmatter
+!define MUI_STARTMENUPAGE_DEFAULTFOLDER XDMatter
 !define MUI_FINISHPAGE_RUN $INSTDIR\xdmatter-qt.exe
 !define MUI_UNICON "${NSISDIR}\Contrib\Graphics\Icons\modern-uninstall.ico"
 !define MUI_UNWELCOMEFINISHPAGE_BITMAP "../share/pixmaps/nsis-wizard.bmp"
@@ -46,13 +46,13 @@ Var StartMenuGroup
 
 # Installer attributes
 OutFile xdmatter-${VERSION}-win32-setup.exe
-InstallDir $PROGRAMFILES\Xdmatter
+InstallDir $PROGRAMFILES\XDMatter
 CRCCheck on
 XPStyle on
 BrandingText " "
 ShowInstDetails show
 VIProductVersion ${VERSION}
-VIAddVersionKey ProductName Xdmatter
+VIAddVersionKey ProductName XDMatter
 VIAddVersionKey ProductVersion "${VERSION}"
 VIAddVersionKey CompanyName "${COMPANY}"
 VIAddVersionKey CompanyWebsite "${URL}"
@@ -87,8 +87,8 @@ Section -post SEC0001
     WriteUninstaller $INSTDIR\uninstall.exe
     !insertmacro MUI_STARTMENU_WRITE_BEGIN Application
     CreateDirectory $SMPROGRAMS\$StartMenuGroup
-    CreateShortcut "$SMPROGRAMS\$StartMenuGroup\Xdmatter.lnk" $INSTDIR\xdmatter-qt.exe
-    CreateShortcut "$SMPROGRAMS\$StartMenuGroup\Uninstall Xdmatter.lnk" $INSTDIR\uninstall.exe
+    CreateShortcut "$SMPROGRAMS\$StartMenuGroup\XDMatter.lnk" $INSTDIR\xdmatter-qt.exe
+    CreateShortcut "$SMPROGRAMS\$StartMenuGroup\Uninstall XDMatter.lnk" $INSTDIR\uninstall.exe
     !insertmacro MUI_STARTMENU_WRITE_END
     WriteRegStr HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)" DisplayName "$(^Name)"
     WriteRegStr HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)" DisplayVersion "${VERSION}"
@@ -99,7 +99,7 @@ Section -post SEC0001
     WriteRegDWORD HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)" NoModify 1
     WriteRegDWORD HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)" NoRepair 1
     WriteRegStr HKCR "xdmatter" "URL Protocol" ""
-    WriteRegStr HKCR "xdmatter" "" "URL:Xdmatter"
+    WriteRegStr HKCR "xdmatter" "" "URL:XDMatter"
     WriteRegStr HKCR "xdmatter\DefaultIcon" "" $INSTDIR\xdmatter-qt.exe
     WriteRegStr HKCR "xdmatter\shell\open\command" "" '"$INSTDIR\xdmatter-qt.exe" "%1"'
 SectionEnd
@@ -129,9 +129,9 @@ SectionEnd
 
 Section -un.post UNSEC0001
     DeleteRegKey HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)"
-    Delete /REBOOTOK "$SMPROGRAMS\$StartMenuGroup\Uninstall Xdmatter.lnk"
-    Delete /REBOOTOK "$SMPROGRAMS\$StartMenuGroup\Xdmatter.lnk"
-    Delete /REBOOTOK "$SMSTARTUP\Xdmatter.lnk"
+    Delete /REBOOTOK "$SMPROGRAMS\$StartMenuGroup\Uninstall XDMatter.lnk"
+    Delete /REBOOTOK "$SMPROGRAMS\$StartMenuGroup\XDMatter.lnk"
+    Delete /REBOOTOK "$SMSTARTUP\XDMatter.lnk"
     Delete /REBOOTOK $INSTDIR\uninstall.exe
     Delete /REBOOTOK $INSTDIR\debug.log
     Delete /REBOOTOK $INSTDIR\db.log

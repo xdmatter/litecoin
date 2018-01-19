@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Xdmatter</source>
-        <translation>Tietoa Xdmatterista</translation>
+        <source>About XDMatter</source>
+        <translation>Tietoa XDMatterista</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Xdmatter&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Xdmatter&lt;/b&gt; versio</translation>
+        <source>&lt;b&gt;XDMatter&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;XDMatter&lt;/b&gt; versio</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -35,7 +35,7 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="+0"/>
-        <source>The Xdmatter developers</source>
+        <source>The XDMatter developers</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -68,8 +68,8 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Xdmatter addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Nämä ovat Xdmatter-osoitteesi joihin voit vastaanottaa maksuja. Voit haluta antaa jokaiselle maksajalle omansa, että pystyt seuraamaan keneltä maksut tulevat.</translation>
+        <source>These are your XDMatter addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Nämä ovat XDMatter-osoitteesi joihin voit vastaanottaa maksuja. Voit haluta antaa jokaiselle maksajalle omansa, että pystyt seuraamaan keneltä maksut tulevat.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -83,8 +83,8 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Xdmatter address</source>
-        <translation>Allekirjoita viesti todistaaksesi, että omistat Xdmatter-osoitteen</translation>
+        <source>Sign a message to prove you own a XDMatter address</source>
+        <translation>Allekirjoita viesti todistaaksesi, että omistat XDMatter-osoitteen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -108,8 +108,8 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Xdmatter address</source>
-        <translation>Tarkista viestin allekirjoitus varmistaaksesi, että se allekirjoitettiin tietyllä Xdmatter-osoitteella</translation>
+        <source>Verify a message to ensure it was signed with a specified XDMatter address</source>
+        <translation>Tarkista viestin allekirjoitus varmistaaksesi, että se allekirjoitettiin tietyllä XDMatter-osoitteella</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -123,7 +123,7 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Xdmatter addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your XDMatter addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -276,8 +276,8 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="-56"/>
-        <source>Xdmatter will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your xdmatters from being stolen by malware infecting your computer.</source>
-        <translation>Xdmatter sulkeutuu lopettaakseen salausprosessin. Muista, että salattukaan lompakko ei täysin suojaa sitä haittaohjelmien aiheuttamilta varkauksilta.</translation>
+        <source>XDMatter will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your xdmatters from being stolen by malware infecting your computer.</source>
+        <translation>XDMatter sulkeutuu lopettaakseen salausprosessin. Muista, että salattukaan lompakko ei täysin suojaa sitä haittaohjelmien aiheuttamilta varkauksilta.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -361,7 +361,7 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     <message>
         <location line="-14"/>
         <source>Show the list of addresses for receiving payments</source>
-        <translation>Näytä Xdmatterien vastaanottamiseen käytetyt osoitteet</translation>
+        <translation>Näytä XDMatterien vastaanottamiseen käytetyt osoitteet</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -375,8 +375,8 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Xdmatter</source>
-        <translation>Näytä tietoa Xdmatter-projektista</translation>
+        <source>Show information about XDMatter</source>
+        <translation>Näytä tietoa XDMatter-projektista</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -420,13 +420,13 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Xdmatter address</source>
-        <translation>Lähetä kolikoita Xdmatter-osoitteeseen</translation>
+        <source>Send coins to a XDMatter address</source>
+        <translation>Lähetä kolikoita XDMatter-osoitteeseen</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Xdmatter</source>
-        <translation>Muuta Xdmatterin konfiguraatioasetuksia</translation>
+        <source>Modify configuration options for XDMatter</source>
+        <translation>Muuta XDMatterin konfiguraatioasetuksia</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -456,8 +456,8 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Xdmatter</source>
-        <translation>Xdmatter</translation>
+        <source>XDMatter</source>
+        <translation>XDMatter</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -481,8 +481,8 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Xdmatter</source>
-        <translation>&amp;Tietoa Xdmatterista</translation>
+        <source>&amp;About XDMatter</source>
+        <translation>&amp;Tietoa XDMatterista</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -492,7 +492,7 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     <message>
         <location line="+1"/>
         <source>Show or hide the main Window</source>
-        <translation>Näytä tai piilota Xdmatter-ikkuna</translation>
+        <translation>Näytä tai piilota XDMatter-ikkuna</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -501,13 +501,13 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Xdmatter addresses to prove you own them</source>
-        <translation>Allekirjoita viestisi omalla Xdmatter -osoitteellasi todistaaksesi, että omistat ne</translation>
+        <source>Sign messages with your XDMatter addresses to prove you own them</source>
+        <translation>Allekirjoita viestisi omalla XDMatter -osoitteellasi todistaaksesi, että omistat ne</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Xdmatter addresses</source>
-        <translation>Varmista, että viestisi on allekirjoitettu määritetyllä Xdmatter -osoitteella</translation>
+        <source>Verify messages to ensure they were signed with specified XDMatter addresses</source>
+        <translation>Varmista, että viestisi on allekirjoitettu määritetyllä XDMatter -osoitteella</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -537,13 +537,13 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="+47"/>
-        <source>Xdmatter client</source>
-        <translation>Xdmatter-asiakas</translation>
+        <source>XDMatter client</source>
+        <translation>XDMatter-asiakas</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Xdmatter network</source>
-        <translation><numerusform>%n aktiivinen yhteys Xdmatter-verkkoon</numerusform><numerusform>%n aktiivista yhteyttä Xdmatter-verkkoon</numerusform></translation>
+        <source>%n active connection(s) to XDMatter network</source>
+        <translation><numerusform>%n aktiivinen yhteys XDMatter-verkkoon</numerusform><numerusform>%n aktiivista yhteyttä XDMatter-verkkoon</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -656,8 +656,8 @@ Osoite: %4</translation>
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Xdmatter address or malformed URI parameters.</source>
-        <translation>URIa ei voitu jäsentää! Tämä voi johtua kelvottomasta Xdmatter-osoitteesta tai virheellisistä URI parametreista.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid XDMatter address or malformed URI parameters.</source>
+        <translation>URIa ei voitu jäsentää! Tämä voi johtua kelvottomasta XDMatter-osoitteesta tai virheellisistä URI parametreista.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -671,8 +671,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Xdmatter can no longer continue safely and will quit.</source>
-        <translation>Peruuttamaton virhe on tapahtunut. Xdmatter ei voi enää jatkaa turvallisesti ja sammutetaan.</translation>
+        <source>A fatal error occurred. XDMatter can no longer continue safely and will quit.</source>
+        <translation>Peruuttamaton virhe on tapahtunut. XDMatter ei voi enää jatkaa turvallisesti ja sammutetaan.</translation>
     </message>
 </context>
 <context>
@@ -737,8 +737,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Xdmatter address.</source>
-        <translation>Antamasi osoite &quot;%1&quot; ei ole validi Xdmatter-osoite.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid XDMatter address.</source>
+        <translation>Antamasi osoite &quot;%1&quot; ei ole validi XDMatter-osoite.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -756,8 +756,8 @@ Osoite: %4</translation>
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Xdmatter-Qt</source>
-        <translation>Xdmatter-Qt</translation>
+        <source>XDMatter-Qt</source>
+        <translation>XDMatter-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -819,13 +819,13 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Xdmatter after logging in to the system.</source>
-        <translation>Käynnistä Xdmatter kirjautumisen yhteydessä.</translation>
+        <source>Automatically start XDMatter after logging in to the system.</source>
+        <translation>Käynnistä XDMatter kirjautumisen yhteydessä.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Xdmatter on system login</source>
-        <translation>&amp;Käynnistä Xdmatter kirjautumisen yhteydessä</translation>
+        <source>&amp;Start XDMatter on system login</source>
+        <translation>&amp;Käynnistä XDMatter kirjautumisen yhteydessä</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -844,8 +844,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Xdmatter client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Avaa Xdmatter-asiakasohjelman portti reitittimellä automaattisesti. Tämä toimii vain, jos reitittimesi tukee UPnP:tä ja se on käytössä.</translation>
+        <source>Automatically open the XDMatter client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Avaa XDMatter-asiakasohjelman portti reitittimellä automaattisesti. Tämä toimii vain, jos reitittimesi tukee UPnP:tä ja se on käytössä.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -854,8 +854,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Xdmatter network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Ota yhteys Xdmatter-verkkoon SOCKS-proxyn läpi (esimerkiksi kun haluat käyttää Tor-verkkoa).</translation>
+        <source>Connect to the XDMatter network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Ota yhteys XDMatter-verkkoon SOCKS-proxyn läpi (esimerkiksi kun haluat käyttää Tor-verkkoa).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -910,7 +910,7 @@ Osoite: %4</translation>
     <message>
         <location line="+7"/>
         <source>Minimize instead of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Quit in the menu.</source>
-        <translation>Ikkunaa suljettaessa vain pienentää Xdmatter-ohjelman ikkunan lopettamatta itse ohjelmaa. Kun tämä asetus on valittuna, ohjelman voi sulkea vain valitsemalla Lopeta ohjelman valikosta.</translation>
+        <translation>Ikkunaa suljettaessa vain pienentää XDMatter-ohjelman ikkunan lopettamatta itse ohjelmaa. Kun tämä asetus on valittuna, ohjelman voi sulkea vain valitsemalla Lopeta ohjelman valikosta.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -929,8 +929,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Xdmatter.</source>
-        <translation>Tässä voit määritellä käyttöliittymän kielen. Muutokset astuvat voimaan seuraavan kerran, kun Xdmatter käynnistetään.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting XDMatter.</source>
+        <translation>Tässä voit määritellä käyttöliittymän kielen. Muutokset astuvat voimaan seuraavan kerran, kun XDMatter käynnistetään.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -944,8 +944,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Xdmatter addresses in the transaction list or not.</source>
-        <translation>Näytetäänkö Xdmatter-osoitteet rahansiirrot listassa vai ei.</translation>
+        <source>Whether to show XDMatter addresses in the transaction list or not.</source>
+        <translation>Näytetäänkö XDMatter-osoitteet rahansiirrot listassa vai ei.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -996,8 +996,8 @@ Osoite: %4</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Xdmatter.</source>
-        <translation>Tämä asetus astuu voimaan seuraavalla kerralla, kun Xdmatter käynnistetään.</translation>
+        <source>This setting will take effect after restarting XDMatter.</source>
+        <translation>Tämä asetus astuu voimaan seuraavalla kerralla, kun XDMatter käynnistetään.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1015,8 +1015,8 @@ Osoite: %4</translation>
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Xdmatter network after a connection is established, but this process has not completed yet.</source>
-        <translation>Näytetyt tiedot eivät välttämättä ole ajantasalla. Lompakkosi synkronoituu Xdmatter-verkon kanssa automaattisesti yhteyden muodostamisen jälkeen, mutta synkronointi on vielä meneillään.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the XDMatter network after a connection is established, but this process has not completed yet.</source>
+        <translation>Näytetyt tiedot eivät välttämättä ole ajantasalla. Lompakkosi synkronoituu XDMatter-verkon kanssa automaattisesti yhteyden muodostamisen jälkeen, mutta synkronointi on vielä meneillään.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1051,12 +1051,12 @@ Osoite: %4</translation>
     <message>
         <location line="-101"/>
         <source>Your current balance</source>
-        <translation>Tililläsi tällä hetkellä olevien Xdmatterien määrä</translation>
+        <translation>Tililläsi tällä hetkellä olevien XDMatterien määrä</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>Total of transactions that have yet to be confirmed, and do not yet count toward the current balance</source>
-        <translation>Niiden saapuvien rahansiirtojen määrä, joita Xdmatter-verkko ei vielä ole ehtinyt vahvistaa ja siten eivät vielä näy saldossa.</translation>
+        <translation>Niiden saapuvien rahansiirtojen määrä, joita XDMatter-verkko ei vielä ole ehtinyt vahvistaa ja siten eivät vielä näy saldossa.</translation>
     </message>
     <message>
         <location filename="../overviewpage.cpp" line="+116"/>
@@ -1219,8 +1219,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Xdmatter-Qt help message to get a list with possible Xdmatter command-line options.</source>
-        <translation>Näytä Xdmatter-Qt komentoriviparametrien ohjesivu, jossa on listattuna mahdolliset komentoriviparametrit.</translation>
+        <source>Show the XDMatter-Qt help message to get a list with possible XDMatter command-line options.</source>
+        <translation>Näytä XDMatter-Qt komentoriviparametrien ohjesivu, jossa on listattuna mahdolliset komentoriviparametrit.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1239,13 +1239,13 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Xdmatter - Debug window</source>
-        <translation>Xdmatter - Debug ikkuna</translation>
+        <source>XDMatter - Debug window</source>
+        <translation>XDMatter - Debug ikkuna</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Xdmatter Core</source>
-        <translation>Xdmatter-ydin</translation>
+        <source>XDMatter Core</source>
+        <translation>XDMatter-ydin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1254,7 +1254,7 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Xdmatter debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the XDMatter debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>Avaa lokitiedosto nykyisestä data-kansiosta. Tämä voi viedä useamman sekunnin, jos lokitiedosto on iso.</translation>
     </message>
     <message>
@@ -1264,8 +1264,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Xdmatter RPC console.</source>
-        <translation>Tervetuloa Xdmatter RPC konsoliin.</translation>
+        <source>Welcome to the XDMatter RPC console.</source>
+        <translation>Tervetuloa XDMatter RPC konsoliin.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1290,7 +1290,7 @@ Osoite: %4</translation>
         <location line="+5"/>
         <location line="+5"/>
         <source>Send Coins</source>
-        <translation>Lähetä Xdmattereja</translation>
+        <translation>Lähetä XDMattereja</translation>
     </message>
     <message>
         <location line="+50"/>
@@ -1340,7 +1340,7 @@ Osoite: %4</translation>
     <message>
         <location line="+5"/>
         <source>Confirm send coins</source>
-        <translation>Hyväksy Xdmatterien lähettäminen</translation>
+        <translation>Hyväksy XDMatterien lähettäminen</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1360,7 +1360,7 @@ Osoite: %4</translation>
     <message>
         <location line="+5"/>
         <source>The amount to pay must be larger than 0.</source>
-        <translation>Maksettavan summan tulee olla suurempi kuin 0 Xdmatteria.</translation>
+        <translation>Maksettavan summan tulee olla suurempi kuin 0 XDMatteria.</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -1448,8 +1448,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Xdmatter address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Anna Xdmatter-osoite (esim. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a XDMatter address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Anna XDMatter-osoite (esim. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1513,8 +1513,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Xdmatter address</source>
-        <translation>Allekirjoita viesti todistaaksesi, että omistat tämän Xdmatter-osoitteen</translation>
+        <source>Sign the message to prove you own this XDMatter address</source>
+        <translation>Allekirjoita viesti todistaaksesi, että omistat tämän XDMatter-osoitteen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1549,8 +1549,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Xdmatter address</source>
-        <translation>Tarkista viestin allekirjoitus varmistaaksesi, että se allekirjoitettiin tietyllä Xdmatter-osoitteella</translation>
+        <source>Verify the message to ensure it was signed with the specified XDMatter address</source>
+        <translation>Tarkista viestin allekirjoitus varmistaaksesi, että se allekirjoitettiin tietyllä XDMatter-osoitteella</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1565,8 +1565,8 @@ Osoite: %4</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Xdmatter address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Anna Xdmatter-osoite (esim. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a XDMatter address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Anna XDMatter-osoite (esim. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1575,8 +1575,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Xdmatter signature</source>
-        <translation>Syötä Xdmatter-allekirjoitus</translation>
+        <source>Enter XDMatter signature</source>
+        <translation>Syötä XDMatter-allekirjoitus</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1649,7 +1649,7 @@ Osoite: %4</translation>
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Xdmatter developers</source>
+        <source>The XDMatter developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1955,7 +1955,7 @@ Osoite: %4</translation>
     <message>
         <location line="+2"/>
         <source>Destination address of transaction.</source>
-        <translation>Rahansiirron kohteen Xdmatter-osoite</translation>
+        <translation>Rahansiirron kohteen XDMatter-osoite</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2137,7 +2137,7 @@ Osoite: %4</translation>
     <message>
         <location filename="../walletmodel.cpp" line="+193"/>
         <source>Send Coins</source>
-        <translation>Lähetä Xdmattereja</translation>
+        <translation>Lähetä XDMattereja</translation>
     </message>
 </context>
 <context>
@@ -2187,8 +2187,8 @@ Osoite: %4</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Xdmatter version</source>
-        <translation>Xdmatterin versio</translation>
+        <source>XDMatter version</source>
+        <translation>XDMatterin versio</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2306,7 +2306,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Xdmatter Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;XDMatter Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2322,7 +2322,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Xdmatter Alert&quot; admin@foo
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Xdmatter is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. XDMatter is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2367,8 +2367,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Xdmatter Alert&quot; admin@foo
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Xdmatter will not work properly.</source>
-        <translation>Varoitus: Tarkista että tietokoneesi kellonaika ja päivämäärä ovat paikkansapitäviä! Xdmatter ei toimi oikein väärällä päivämäärällä ja/tai kellonajalla.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong XDMatter will not work properly.</source>
+        <translation>Varoitus: Tarkista että tietokoneesi kellonaika ja päivämäärä ovat paikkansapitäviä! XDMatter ei toimi oikein väärällä päivämäärällä ja/tai kellonajalla.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2617,8 +2617,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Xdmatter Alert&quot; admin@foo
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Xdmatter Wiki for SSL setup instructions)</source>
-        <translation>SSL asetukset (katso Xdmatter Wikistä tarkemmat SSL ohjeet)</translation>
+        <source>SSL options: (see the XDMatter Wiki for SSL setup instructions)</source>
+        <translation>SSL asetukset (katso XDMatter Wikistä tarkemmat SSL ohjeet)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2808,13 +2808,13 @@ TLSv1+HIGH:!SSLv2:!aNULL:!eNULL:!AH:!3DES:@STRENGTH)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Xdmatter</source>
-        <translation>Virhe ladattaessa wallet.dat-tiedostoa: Tarvitset uudemman version Xdmatterista</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of XDMatter</source>
+        <translation>Virhe ladattaessa wallet.dat-tiedostoa: Tarvitset uudemman version XDMatterista</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Xdmatter to complete</source>
-        <translation>Lompakko tarvitsee uudelleenkirjoittaa: käynnistä Xdmatter uudelleen</translation>
+        <source>Wallet needed to be rewritten: restart XDMatter to complete</source>
+        <translation>Lompakko tarvitsee uudelleenkirjoittaa: käynnistä XDMatter uudelleen</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2873,8 +2873,8 @@ TLSv1+HIGH:!SSLv2:!aNULL:!eNULL:!AH:!3DES:@STRENGTH)</translation>
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Xdmatter is probably already running.</source>
-        <translation>Kytkeytyminen %s ei onnistu tällä tietokoneella. Xdmatter on todennäköisesti jo ajamassa.</translation>
+        <source>Unable to bind to %s on this computer. XDMatter is probably already running.</source>
+        <translation>Kytkeytyminen %s ei onnistu tällä tietokoneella. XDMatter on todennäköisesti jo ajamassa.</translation>
     </message>
     <message>
         <location line="+64"/>

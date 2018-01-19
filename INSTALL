@@ -1,9 +1,9 @@
-Building Xdmatter
+Building XDMatter
 
-See doc/readme-qt.rst for instructions on building Xdmatter-Qt,
+See doc/readme-qt.rst for instructions on building XDMatter-Qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of Xdmatter.
+implementation of XDMatter.
 
 See doc/build-*.txt for instructions on building xdmatterd,
 the intended-for-services, no-graphical-interface, reference
-implementation of Xdmatter.
+implementation of XDMatter.

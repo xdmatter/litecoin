@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Xdmatter</source>
-        <translation>Om Xdmatter</translation>
+        <source>About XDMatter</source>
+        <translation>Om XDMatter</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Xdmatter&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Xdmatter&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;XDMatter&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;XDMatter&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -34,8 +34,8 @@ Produktet indeholder software som er udviklet af OpenSSL Project til brug i Open
     </message>
     <message>
         <location line="+0"/>
-        <source>The Xdmatter developers</source>
-        <translation>Xdmatter-udviklerne</translation>
+        <source>The XDMatter developers</source>
+        <translation>XDMatter-udviklerne</translation>
     </message>
 </context>
 <context>
@@ -67,8 +67,8 @@ Produktet indeholder software som er udviklet af OpenSSL Project til brug i Open
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Xdmatter addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dette er dine Xdmatter-adresser til at modtage betalinger med. Du kan give en forskellig adresse til hver afsender, så du kan holde styr på, hvem der betaler dig.</translation>
+        <source>These are your XDMatter addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dette er dine XDMatter-adresser til at modtage betalinger med. Du kan give en forskellig adresse til hver afsender, så du kan holde styr på, hvem der betaler dig.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -82,8 +82,8 @@ Produktet indeholder software som er udviklet af OpenSSL Project til brug i Open
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Xdmatter address</source>
-        <translation>Underskriv en besked for at bevise, at en Xdmatter-adresse tilhører dig</translation>
+        <source>Sign a message to prove you own a XDMatter address</source>
+        <translation>Underskriv en besked for at bevise, at en XDMatter-adresse tilhører dig</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -107,8 +107,8 @@ Produktet indeholder software som er udviklet af OpenSSL Project til brug i Open
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Xdmatter address</source>
-        <translation>Efterprøv en besked for at sikre, at den er underskrevet med den angivne Xdmatter-adresse</translation>
+        <source>Verify a message to ensure it was signed with a specified XDMatter address</source>
+        <translation>Efterprøv en besked for at sikre, at den er underskrevet med den angivne XDMatter-adresse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -122,8 +122,8 @@ Produktet indeholder software som er udviklet af OpenSSL Project til brug i Open
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Xdmatter addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Disse er dine Xdmatter-adresser for at sende betalinger. Tjek altid beløb og modtageradresse, inden du sender xdmatters.</translation>
+        <source>These are your XDMatter addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Disse er dine XDMatter-adresser for at sende betalinger. Tjek altid beløb og modtageradresse, inden du sender xdmatters.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -275,8 +275,8 @@ Produktet indeholder software som er udviklet af OpenSSL Project til brug i Open
     </message>
     <message>
         <location line="-56"/>
-        <source>Xdmatter will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your xdmatters from being stolen by malware infecting your computer.</source>
-        <translation>Xdmatter vil nu lukke for at gennemføre krypteringsprocessen. Husk på, at kryptering af din tegnebog vil ikke beskytte dine xdmatters fuldt ud mod at blive stjålet af malware på din computer.</translation>
+        <source>XDMatter will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your xdmatters from being stolen by malware infecting your computer.</source>
+        <translation>XDMatter vil nu lukke for at gennemføre krypteringsprocessen. Husk på, at kryptering af din tegnebog vil ikke beskytte dine xdmatters fuldt ud mod at blive stjålet af malware på din computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -374,8 +374,8 @@ Produktet indeholder software som er udviklet af OpenSSL Project til brug i Open
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Xdmatter</source>
-        <translation>Vis informationer om Xdmatter</translation>
+        <source>Show information about XDMatter</source>
+        <translation>Vis informationer om XDMatter</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -419,13 +419,13 @@ Produktet indeholder software som er udviklet af OpenSSL Project til brug i Open
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Xdmatter address</source>
-        <translation>Send xdmatters til en Xdmatter-adresse</translation>
+        <source>Send coins to a XDMatter address</source>
+        <translation>Send xdmatters til en XDMatter-adresse</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Xdmatter</source>
-        <translation>Rediger konfigurationsindstillinger af Xdmatter</translation>
+        <source>Modify configuration options for XDMatter</source>
+        <translation>Rediger konfigurationsindstillinger af XDMatter</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -455,8 +455,8 @@ Produktet indeholder software som er udviklet af OpenSSL Project til brug i Open
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Xdmatter</source>
-        <translation>Xdmatter</translation>
+        <source>XDMatter</source>
+        <translation>XDMatter</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -480,8 +480,8 @@ Produktet indeholder software som er udviklet af OpenSSL Project til brug i Open
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Xdmatter</source>
-        <translation>Om Xdmatter</translation>
+        <source>&amp;About XDMatter</source>
+        <translation>Om XDMatter</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ Produktet indeholder software som er udviklet af OpenSSL Project til brug i Open
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Xdmatter addresses to prove you own them</source>
-        <translation>Underskriv beskeder med dine Xdmatter-adresser for at bevise, at de tilhører dig</translation>
+        <source>Sign messages with your XDMatter addresses to prove you own them</source>
+        <translation>Underskriv beskeder med dine XDMatter-adresser for at bevise, at de tilhører dig</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Xdmatter addresses</source>
-        <translation>Efterprøv beskeder for at sikre, at de er underskrevet med de(n) angivne Xdmatter-adresse(r)</translation>
+        <source>Verify messages to ensure they were signed with specified XDMatter addresses</source>
+        <translation>Efterprøv beskeder for at sikre, at de er underskrevet med de(n) angivne XDMatter-adresse(r)</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -536,13 +536,13 @@ Produktet indeholder software som er udviklet af OpenSSL Project til brug i Open
     </message>
     <message>
         <location line="+47"/>
-        <source>Xdmatter client</source>
-        <translation>Xdmatter-klient</translation>
+        <source>XDMatter client</source>
+        <translation>XDMatter-klient</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Xdmatter network</source>
-        <translation><numerusform>%n aktiv(e) forbindelse(r) til Xdmatter-netværket</numerusform><numerusform>%n aktiv(e) forbindelse(r) til Xdmatter-netværket</numerusform></translation>
+        <source>%n active connection(s) to XDMatter network</source>
+        <translation><numerusform>%n aktiv(e) forbindelse(r) til XDMatter-netværket</numerusform><numerusform>%n aktiv(e) forbindelse(r) til XDMatter-netværket</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -656,8 +656,8 @@ Adresse: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Xdmatter address or malformed URI parameters.</source>
-        <translation>URI kan ikke fortolkes! Dette kan skyldes en ugyldig Xdmatter-adresse eller misdannede URI-parametre.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid XDMatter address or malformed URI parameters.</source>
+        <translation>URI kan ikke fortolkes! Dette kan skyldes en ugyldig XDMatter-adresse eller misdannede URI-parametre.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -671,8 +671,8 @@ Adresse: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Xdmatter can no longer continue safely and will quit.</source>
-        <translation>Der opstod en fatal fejl. Xdmatter kan ikke længere fortsætte sikkert og vil afslutte.</translation>
+        <source>A fatal error occurred. XDMatter can no longer continue safely and will quit.</source>
+        <translation>Der opstod en fatal fejl. XDMatter kan ikke længere fortsætte sikkert og vil afslutte.</translation>
     </message>
 </context>
 <context>
@@ -737,8 +737,8 @@ Adresse: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Xdmatter address.</source>
-        <translation>Den indtastede adresse &quot;%1&quot; er ikke en gyldig Xdmatter-adresse.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid XDMatter address.</source>
+        <translation>Den indtastede adresse &quot;%1&quot; er ikke en gyldig XDMatter-adresse.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -756,8 +756,8 @@ Adresse: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Xdmatter-Qt</source>
-        <translation>Xdmatter-Qt</translation>
+        <source>XDMatter-Qt</source>
+        <translation>XDMatter-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -819,13 +819,13 @@ Adresse: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Xdmatter after logging in to the system.</source>
-        <translation>Start Xdmatter automatisk, når der logges ind på systemet</translation>
+        <source>Automatically start XDMatter after logging in to the system.</source>
+        <translation>Start XDMatter automatisk, når der logges ind på systemet</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Xdmatter on system login</source>
-        <translation>Start Xdmatter, når systemet startes</translation>
+        <source>&amp;Start XDMatter on system login</source>
+        <translation>Start XDMatter, når systemet startes</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -844,8 +844,8 @@ Adresse: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Xdmatter client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Åbn Xdmatter-klientens port på routeren automatisk. Dette virker kun, når din router understøtter UPnP og UPnP er aktiveret.</translation>
+        <source>Automatically open the XDMatter client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Åbn XDMatter-klientens port på routeren automatisk. Dette virker kun, når din router understøtter UPnP og UPnP er aktiveret.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -854,8 +854,8 @@ Adresse: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Xdmatter network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Opret forbindelse til Xdmatter-netværket via en SOCKS-proxy (f.eks. ved tilslutning gennem Tor)</translation>
+        <source>Connect to the XDMatter network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Opret forbindelse til XDMatter-netværket via en SOCKS-proxy (f.eks. ved tilslutning gennem Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -929,8 +929,8 @@ Adresse: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Xdmatter.</source>
-        <translation>Brugergrænsefladesproget kan angives her. Denne indstilling træder først i kraft, når Xdmatter genstartes.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting XDMatter.</source>
+        <translation>Brugergrænsefladesproget kan angives her. Denne indstilling træder først i kraft, når XDMatter genstartes.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -944,8 +944,8 @@ Adresse: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Xdmatter addresses in the transaction list or not.</source>
-        <translation>Afgør hvorvidt Xdmatter-adresser skal vises i transaktionslisten eller ej.</translation>
+        <source>Whether to show XDMatter addresses in the transaction list or not.</source>
+        <translation>Afgør hvorvidt XDMatter-adresser skal vises i transaktionslisten eller ej.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -996,8 +996,8 @@ Adresse: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Xdmatter.</source>
-        <translation>Denne indstilling træder i kraft, efter Xdmatter genstartes.</translation>
+        <source>This setting will take effect after restarting XDMatter.</source>
+        <translation>Denne indstilling træder i kraft, efter XDMatter genstartes.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1015,8 +1015,8 @@ Adresse: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Xdmatter network after a connection is established, but this process has not completed yet.</source>
-        <translation>Den viste information kan være forældet. Din tegnebog synkroniserer automatisk med Xdmatter-netværket, når en forbindelse etableres, men denne proces er ikke gennemført endnu.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the XDMatter network after a connection is established, but this process has not completed yet.</source>
+        <translation>Den viste information kan være forældet. Din tegnebog synkroniserer automatisk med XDMatter-netværket, når en forbindelse etableres, men denne proces er ikke gennemført endnu.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1219,8 +1219,8 @@ Adresse: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Xdmatter-Qt help message to get a list with possible Xdmatter command-line options.</source>
-        <translation>Vis Xdmatter-Qt-hjælpebeskeden for at få en liste over de tilgængelige Xdmatter-kommandolinjeindstillinger.</translation>
+        <source>Show the XDMatter-Qt help message to get a list with possible XDMatter command-line options.</source>
+        <translation>Vis XDMatter-Qt-hjælpebeskeden for at få en liste over de tilgængelige XDMatter-kommandolinjeindstillinger.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1239,13 +1239,13 @@ Adresse: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Xdmatter - Debug window</source>
-        <translation>Xdmatter - Fejlsøgningsvindue</translation>
+        <source>XDMatter - Debug window</source>
+        <translation>XDMatter - Fejlsøgningsvindue</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Xdmatter Core</source>
-        <translation>Xdmatter Core</translation>
+        <source>XDMatter Core</source>
+        <translation>XDMatter Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1254,8 +1254,8 @@ Adresse: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Xdmatter debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Åbn Xdmatter-fejlsøgningslogfilen fra det nuværende datakatalog. Dette kan tage nogle få sekunder for en store logfiler.</translation>
+        <source>Open the XDMatter debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Åbn XDMatter-fejlsøgningslogfilen fra det nuværende datakatalog. Dette kan tage nogle få sekunder for en store logfiler.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1264,8 +1264,8 @@ Adresse: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Xdmatter RPC console.</source>
-        <translation>Velkommen til Xdmatter RPC-konsollen</translation>
+        <source>Welcome to the XDMatter RPC console.</source>
+        <translation>Velkommen til XDMatter RPC-konsollen</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1408,7 +1408,7 @@ Adresse: %4
     <message>
         <location line="+34"/>
         <source>The address to send the payment to (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Xdmatter-adressen som betalingen skal sendes til (f.eks. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>XDMatter-adressen som betalingen skal sendes til (f.eks. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -1448,8 +1448,8 @@ Adresse: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Xdmatter address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Indtast en Xdmatter-adresse (f.eks. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a XDMatter address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Indtast en XDMatter-adresse (f.eks. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1467,12 +1467,12 @@ Adresse: %4
     <message>
         <location line="+6"/>
         <source>You can sign messages with your addresses to prove you own them. Be careful not to sign anything vague, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-        <translation>Du kan underskrive beskeder med dine Xdmatter-adresser for at bevise, at de tilhører dig. Pas på ikke at underskrive noget vagt, da phisingangreb kan narre dig til at overdrage din identitet. Underskriv kun fuldt detaljerede udsagn, du er enig i.</translation>
+        <translation>Du kan underskrive beskeder med dine XDMatter-adresser for at bevise, at de tilhører dig. Pas på ikke at underskrive noget vagt, da phisingangreb kan narre dig til at overdrage din identitet. Underskriv kun fuldt detaljerede udsagn, du er enig i.</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>The address to sign the message with (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Xdmatter-adressen som beskeden skal underskrives med (f.eks. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>XDMatter-adressen som beskeden skal underskrives med (f.eks. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1513,8 +1513,8 @@ Adresse: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Xdmatter address</source>
-        <translation>Underskriv denne besked for at bevise, at Xdmatter-adressen tilhører dig</translation>
+        <source>Sign the message to prove you own this XDMatter address</source>
+        <translation>Underskriv denne besked for at bevise, at XDMatter-adressen tilhører dig</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1545,12 +1545,12 @@ Adresse: %4
     <message>
         <location line="+21"/>
         <source>The address the message was signed with (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Xdmatter-adressen som beskeden er underskrevet med (f.eks. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>XDMatter-adressen som beskeden er underskrevet med (f.eks. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Xdmatter address</source>
-        <translation>Efterprøv beskeden for at sikre, at den er underskrevet med den angivne Xdmatter-adresse</translation>
+        <source>Verify the message to ensure it was signed with the specified XDMatter address</source>
+        <translation>Efterprøv beskeden for at sikre, at den er underskrevet med den angivne XDMatter-adresse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1565,8 +1565,8 @@ Adresse: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Xdmatter address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Indtast en Xdmatter-adresse (f.eks. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a XDMatter address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Indtast en XDMatter-adresse (f.eks. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1575,8 +1575,8 @@ Adresse: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Xdmatter signature</source>
-        <translation>Indtast Xdmatter-underskriften</translation>
+        <source>Enter XDMatter signature</source>
+        <translation>Indtast XDMatter-underskriften</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1649,8 +1649,8 @@ Adresse: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Xdmatter developers</source>
-        <translation>Xdmatter-udviklerne</translation>
+        <source>The XDMatter developers</source>
+        <translation>XDMatter-udviklerne</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2187,8 +2187,8 @@ Adresse: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Xdmatter version</source>
-        <translation>Xdmatter-version</translation>
+        <source>XDMatter version</source>
+        <translation>XDMatter-version</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2306,7 +2306,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Xdmatter Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;XDMatter Alert&quot; admin@foo.com
 </source>
         <translation>%s, du skal angive en RPC-adgangskode i konfigurationsfilen:
 %s
@@ -2317,7 +2317,7 @@ rpcpassword=%s
 Brugernavnet og adgangskode MÅ IKKE være det samme.
 Hvis filen ikke eksisterer, opret den og giv ingen andre end ejeren læserettighed.
 Det anbefales også at angive alertnotify, så du påmindes om problemer;
-f.eks.: alertnotify=echo %%s | mail -s &quot;Xdmatter Alert&quot; admin@foo.com
+f.eks.: alertnotify=echo %%s | mail -s &quot;XDMatter Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2332,8 +2332,8 @@ f.eks.: alertnotify=echo %%s | mail -s &quot;Xdmatter Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Xdmatter is probably already running.</source>
-        <translation>Kan ikke opnå lås på datakatalog %s. Xdmatter er sandsynligvis allerede startet.</translation>
+        <source>Cannot obtain a lock on data directory %s. XDMatter is probably already running.</source>
+        <translation>Kan ikke opnå lås på datakatalog %s. XDMatter er sandsynligvis allerede startet.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2377,8 +2377,8 @@ f.eks.: alertnotify=echo %%s | mail -s &quot;Xdmatter Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Xdmatter will not work properly.</source>
-        <translation>Advarsel: Undersøg venligst, at din computers dato og klokkeslæt er korrekt indstillet! Hvis der er fejl i disse, vil Xdmatter ikke fungere korrekt.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong XDMatter will not work properly.</source>
+        <translation>Advarsel: Undersøg venligst, at din computers dato og klokkeslæt er korrekt indstillet! Hvis der er fejl i disse, vil XDMatter ikke fungere korrekt.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2627,8 +2627,8 @@ f.eks.: alertnotify=echo %%s | mail -s &quot;Xdmatter Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Xdmatter Wiki for SSL setup instructions)</source>
-        <translation>SSL-indstillinger: (se Xdmatter Wiki for SSL-opsætningsinstruktioner)</translation>
+        <source>SSL options: (see the XDMatter Wiki for SSL setup instructions)</source>
+        <translation>SSL-indstillinger: (se XDMatter Wiki for SSL-opsætningsinstruktioner)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2817,13 +2817,13 @@ f.eks.: alertnotify=echo %%s | mail -s &quot;Xdmatter Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Xdmatter</source>
-        <translation>Fejl ved indlæsning af wallet.dat: Tegnebog kræver en nyere version af Xdmatter</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of XDMatter</source>
+        <translation>Fejl ved indlæsning af wallet.dat: Tegnebog kræver en nyere version af XDMatter</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Xdmatter to complete</source>
-        <translation>Det var nødvendigt at genskrive tegnebogen: genstart Xdmatter for at gennemføre</translation>
+        <source>Wallet needed to be rewritten: restart XDMatter to complete</source>
+        <translation>Det var nødvendigt at genskrive tegnebogen: genstart XDMatter for at gennemføre</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2882,8 +2882,8 @@ f.eks.: alertnotify=echo %%s | mail -s &quot;Xdmatter Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Xdmatter is probably already running.</source>
-        <translation>Kunne ikke tildele %s på denne computer. Xdmatter kører sikkert allerede.</translation>
+        <source>Unable to bind to %s on this computer. XDMatter is probably already running.</source>
+        <translation>Kunne ikke tildele %s på denne computer. XDMatter kører sikkert allerede.</translation>
     </message>
     <message>
         <location line="+64"/>

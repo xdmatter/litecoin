@@ -6,13 +6,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Xdmatter</source>
-        <translation>About Xdmatter</translation>
+        <source>About XDMatter</source>
+        <translation>About XDMatter</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Xdmatter&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Xdmatter&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;XDMatter&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;XDMatter&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -36,8 +36,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+0"/>
-        <source>The Xdmatter developers</source>
-        <translation>The Xdmatter developers</translation>
+        <source>The XDMatter developers</source>
+        <translation>The XDMatter developers</translation>
     </message>
 </context>
 <context>
@@ -69,8 +69,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Xdmatter addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>These are your Xdmatter addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</translation>
+        <source>These are your XDMatter addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>These are your XDMatter addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -84,8 +84,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Xdmatter address</source>
-        <translation>Sign a message to prove you own a Xdmatter address</translation>
+        <source>Sign a message to prove you own a XDMatter address</source>
+        <translation>Sign a message to prove you own a XDMatter address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -109,8 +109,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Xdmatter address</source>
-        <translation>Verify a message to ensure it was signed with a specified Xdmatter address</translation>
+        <source>Verify a message to ensure it was signed with a specified XDMatter address</source>
+        <translation>Verify a message to ensure it was signed with a specified XDMatter address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -124,8 +124,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Xdmatter addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>These are your Xdmatter addresses for sending payments. Always check the amount and the receiving address before sending coins.</translation>
+        <source>These are your XDMatter addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>These are your XDMatter addresses for sending payments. Always check the amount and the receiving address before sending coins.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -277,8 +277,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-56"/>
-        <source>Xdmatter will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your xdmatters from being stolen by malware infecting your computer.</source>
-        <translation>Xdmatter will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your xdmatters from being stolen by malware infecting your computer.</translation>
+        <source>XDMatter will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your xdmatters from being stolen by malware infecting your computer.</source>
+        <translation>XDMatter will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your xdmatters from being stolen by malware infecting your computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -376,8 +376,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Xdmatter</source>
-        <translation>Show information about Xdmatter</translation>
+        <source>Show information about XDMatter</source>
+        <translation>Show information about XDMatter</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -421,13 +421,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Xdmatter address</source>
-        <translation>Send coins to a Xdmatter address</translation>
+        <source>Send coins to a XDMatter address</source>
+        <translation>Send coins to a XDMatter address</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Xdmatter</source>
-        <translation>Modify configuration options for Xdmatter</translation>
+        <source>Modify configuration options for XDMatter</source>
+        <translation>Modify configuration options for XDMatter</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -457,8 +457,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Xdmatter</source>
-        <translation>Xdmatter</translation>
+        <source>XDMatter</source>
+        <translation>XDMatter</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -482,8 +482,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Xdmatter</source>
-        <translation>&amp;About Xdmatter</translation>
+        <source>&amp;About XDMatter</source>
+        <translation>&amp;About XDMatter</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -502,13 +502,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Xdmatter addresses to prove you own them</source>
-        <translation>Sign messages with your Xdmatter addresses to prove you own them</translation>
+        <source>Sign messages with your XDMatter addresses to prove you own them</source>
+        <translation>Sign messages with your XDMatter addresses to prove you own them</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Xdmatter addresses</source>
-        <translation>Verify messages to ensure they were signed with specified Xdmatter addresses</translation>
+        <source>Verify messages to ensure they were signed with specified XDMatter addresses</source>
+        <translation>Verify messages to ensure they were signed with specified XDMatter addresses</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -538,15 +538,15 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+47"/>
-        <source>Xdmatter client</source>
-        <translation>Xdmatter client</translation>
+        <source>XDMatter client</source>
+        <translation>XDMatter client</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Xdmatter network</source>
+        <source>%n active connection(s) to XDMatter network</source>
         <translation>
-            <numerusform>%n active connection to Xdmatter network</numerusform>
-            <numerusform>%n active connections to Xdmatter network</numerusform>
+            <numerusform>%n active connection to XDMatter network</numerusform>
+            <numerusform>%n active connections to XDMatter network</numerusform>
         </translation>
     </message>
     <message>
@@ -670,8 +670,8 @@ Address: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Xdmatter address or malformed URI parameters.</source>
-        <translation>URI can not be parsed! This can be caused by an invalid Xdmatter address or malformed URI parameters.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid XDMatter address or malformed URI parameters.</source>
+        <translation>URI can not be parsed! This can be caused by an invalid XDMatter address or malformed URI parameters.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -685,8 +685,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Xdmatter can no longer continue safely and will quit.</source>
-        <translation>A fatal error occurred. Xdmatter can no longer continue safely and will quit.</translation>
+        <source>A fatal error occurred. XDMatter can no longer continue safely and will quit.</source>
+        <translation>A fatal error occurred. XDMatter can no longer continue safely and will quit.</translation>
     </message>
 </context>
 <context>
@@ -751,8 +751,8 @@ Address: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Xdmatter address.</source>
-        <translation>The entered address &quot;%1&quot; is not a valid Xdmatter address.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid XDMatter address.</source>
+        <translation>The entered address &quot;%1&quot; is not a valid XDMatter address.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -770,8 +770,8 @@ Address: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Xdmatter-Qt</source>
-        <translation>Xdmatter-Qt</translation>
+        <source>XDMatter-Qt</source>
+        <translation>XDMatter-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -833,13 +833,13 @@ Address: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Xdmatter after logging in to the system.</source>
-        <translation>Automatically start Xdmatter after logging in to the system.</translation>
+        <source>Automatically start XDMatter after logging in to the system.</source>
+        <translation>Automatically start XDMatter after logging in to the system.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Xdmatter on system login</source>
-        <translation>&amp;Start Xdmatter on system login</translation>
+        <source>&amp;Start XDMatter on system login</source>
+        <translation>&amp;Start XDMatter on system login</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -858,8 +858,8 @@ Address: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Xdmatter client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatically open the Xdmatter client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
+        <source>Automatically open the XDMatter client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatically open the XDMatter client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -868,8 +868,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Xdmatter network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connect to the Xdmatter network through a SOCKS proxy (e.g. when connecting through Tor).</translation>
+        <source>Connect to the XDMatter network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connect to the XDMatter network through a SOCKS proxy (e.g. when connecting through Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -943,8 +943,8 @@ Address: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Xdmatter.</source>
-        <translation>The user interface language can be set here. This setting will take effect after restarting Xdmatter.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting XDMatter.</source>
+        <translation>The user interface language can be set here. This setting will take effect after restarting XDMatter.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -958,8 +958,8 @@ Address: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Xdmatter addresses in the transaction list or not.</source>
-        <translation>Whether to show Xdmatter addresses in the transaction list or not.</translation>
+        <source>Whether to show XDMatter addresses in the transaction list or not.</source>
+        <translation>Whether to show XDMatter addresses in the transaction list or not.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1010,8 +1010,8 @@ Address: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Xdmatter.</source>
-        <translation>This setting will take effect after restarting Xdmatter.</translation>
+        <source>This setting will take effect after restarting XDMatter.</source>
+        <translation>This setting will take effect after restarting XDMatter.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1029,8 +1029,8 @@ Address: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Xdmatter network after a connection is established, but this process has not completed yet.</source>
-        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the Xdmatter network after a connection is established, but this process has not completed yet.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the XDMatter network after a connection is established, but this process has not completed yet.</source>
+        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the XDMatter network after a connection is established, but this process has not completed yet.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1233,8 +1233,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Xdmatter-Qt help message to get a list with possible Xdmatter command-line options.</source>
-        <translation>Show the Xdmatter-Qt help message to get a list with possible Xdmatter command-line options.</translation>
+        <source>Show the XDMatter-Qt help message to get a list with possible XDMatter command-line options.</source>
+        <translation>Show the XDMatter-Qt help message to get a list with possible XDMatter command-line options.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1253,13 +1253,13 @@ Address: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Xdmatter - Debug window</source>
-        <translation>Xdmatter - Debug window</translation>
+        <source>XDMatter - Debug window</source>
+        <translation>XDMatter - Debug window</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Xdmatter Core</source>
-        <translation>Xdmatter Core</translation>
+        <source>XDMatter Core</source>
+        <translation>XDMatter Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1268,8 +1268,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Xdmatter debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open the Xdmatter debug log file from the current data directory. This can take a few seconds for large log files.</translation>
+        <source>Open the XDMatter debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open the XDMatter debug log file from the current data directory. This can take a few seconds for large log files.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1278,8 +1278,8 @@ Address: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Xdmatter RPC console.</source>
-        <translation>Welcome to the Xdmatter RPC console.</translation>
+        <source>Welcome to the XDMatter RPC console.</source>
+        <translation>Welcome to the XDMatter RPC console.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1462,8 +1462,8 @@ Address: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Xdmatter address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Enter a Xdmatter address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a XDMatter address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Enter a XDMatter address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1527,8 +1527,8 @@ Address: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Xdmatter address</source>
-        <translation>Sign the message to prove you own this Xdmatter address</translation>
+        <source>Sign the message to prove you own this XDMatter address</source>
+        <translation>Sign the message to prove you own this XDMatter address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1563,8 +1563,8 @@ Address: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Xdmatter address</source>
-        <translation>Verify the message to ensure it was signed with the specified Xdmatter address</translation>
+        <source>Verify the message to ensure it was signed with the specified XDMatter address</source>
+        <translation>Verify the message to ensure it was signed with the specified XDMatter address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1579,8 +1579,8 @@ Address: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Xdmatter address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Enter a Xdmatter address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a XDMatter address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Enter a XDMatter address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1589,8 +1589,8 @@ Address: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Xdmatter signature</source>
-        <translation>Enter Xdmatter signature</translation>
+        <source>Enter XDMatter signature</source>
+        <translation>Enter XDMatter signature</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1663,8 +1663,8 @@ Address: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Xdmatter developers</source>
-        <translation>The Xdmatter developers</translation>
+        <source>The XDMatter developers</source>
+        <translation>The XDMatter developers</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2216,8 +2216,8 @@ Address: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Xdmatter version</source>
-        <translation>Xdmatter version</translation>
+        <source>XDMatter version</source>
+        <translation>XDMatter version</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2335,7 +2335,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Xdmatter Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;XDMatter Alert&quot; admin@foo.com
 </source>
         <translation>%s, you must set a rpcpassword in the configuration file:
 %s
@@ -2346,7 +2346,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Xdmatter Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;XDMatter Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2361,8 +2361,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Xdmatter Alert&quot; admin@foo
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Xdmatter is probably already running.</source>
-        <translation>Cannot obtain a lock on data directory %s. Xdmatter is probably already running.</translation>
+        <source>Cannot obtain a lock on data directory %s. XDMatter is probably already running.</source>
+        <translation>Cannot obtain a lock on data directory %s. XDMatter is probably already running.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2406,8 +2406,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Xdmatter Alert&quot; admin@foo
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Xdmatter will not work properly.</source>
-        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Xdmatter will not work properly.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong XDMatter will not work properly.</source>
+        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong XDMatter will not work properly.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2656,8 +2656,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Xdmatter Alert&quot; admin@foo
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Xdmatter Wiki for SSL setup instructions)</source>
-        <translation>SSL options: (see the Xdmatter Wiki for SSL setup instructions)</translation>
+        <source>SSL options: (see the XDMatter Wiki for SSL setup instructions)</source>
+        <translation>SSL options: (see the XDMatter Wiki for SSL setup instructions)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2846,13 +2846,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Xdmatter Alert&quot; admin@foo
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Xdmatter</source>
-        <translation>Error loading wallet.dat: Wallet requires newer version of Xdmatter</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of XDMatter</source>
+        <translation>Error loading wallet.dat: Wallet requires newer version of XDMatter</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Xdmatter to complete</source>
-        <translation>Wallet needed to be rewritten: restart Xdmatter to complete</translation>
+        <source>Wallet needed to be rewritten: restart XDMatter to complete</source>
+        <translation>Wallet needed to be rewritten: restart XDMatter to complete</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2911,8 +2911,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Xdmatter Alert&quot; admin@foo
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Xdmatter is probably already running.</source>
-        <translation>Unable to bind to %s on this computer. Xdmatter is probably already running.</translation>
+        <source>Unable to bind to %s on this computer. XDMatter is probably already running.</source>
+        <translation>Unable to bind to %s on this computer. XDMatter is probably already running.</translation>
     </message>
     <message>
         <location line="+64"/>

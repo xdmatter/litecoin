@@ -272,7 +272,7 @@ class CBitcoinAddress : public CBase58Data
 public:
     enum
     {
-        PUBKEY_ADDRESS = 75, // Xdmatter addresses start with X
+        PUBKEY_ADDRESS = 75, // XDMatter addresses start with X
         SCRIPT_ADDRESS = 5,
         PUBKEY_ADDRESS_TEST = 137,
         SCRIPT_ADDRESS_TEST = 196,

@@ -49,9 +49,9 @@ QString BitcoinUnits::description(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("Xdmatters");
-    case mBTC: return QString("Milli-Xdmatters (1 / 1,000)");
-    case uBTC: return QString("Micro-Xdmatters (1 / 1,000,000)");
+    case BTC: return QString("XDMatters");
+    case mBTC: return QString("Milli-XDMatters (1 / 1,000)");
+    case uBTC: return QString("Micro-XDMatters (1 / 1,000,000)");
     default: return QString("???");
     }
 }

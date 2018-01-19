@@ -15,16 +15,16 @@
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleExecutable</key>
-	<string>Xdmatter-Qt</string>
+	<string>XDMatter-Qt</string>
 	<key>CFBundleIdentifier</key>
-	<string>org.xdmatter.Xdmatter-Qt</string>
+	<string>org.xdmatter.XDMatter-Qt</string>
         <key>CFBundleURLTypes</key>
         <array>
           <dict>
             <key>CFBundleTypeRole</key>
             <string>Editor</string>
             <key>CFBundleURLName</key>
-            <string>org.xdmatter.XdmatterPayment</string>
+            <string>org.xdmatter.XDMatterPayment</string>
             <key>CFBundleURLSchemes</key>
             <array>
               <string>xdmatter</string>

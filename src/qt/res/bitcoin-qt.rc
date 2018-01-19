@@ -20,14 +20,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "Xdmatter"
-            VALUE "FileDescription",    "Xdmatter-Qt (OSS GUI client for Xdmatter)"
+            VALUE "CompanyName",        "XDMatter"
+            VALUE "FileDescription",    "XDMatter-Qt (OSS GUI client for XDMatter)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
             VALUE "InternalName",       "xdmatter-qt"
             VALUE "LegalCopyright",     COPYRIGHT_STR
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
             VALUE "OriginalFilename",   "xdmatter-qt.exe"
-            VALUE "ProductName",        "Xdmatter-Qt"
+            VALUE "ProductName",        "XDMatter-Qt"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END
